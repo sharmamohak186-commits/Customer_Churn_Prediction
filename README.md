@@ -1,5 +1,5 @@
 Customer Churn Prediction
 
-Developed an AI-powered customer support application using Python and FastAPI to manage and respond to customer queries. Integrated SQLite for ticket storage and automated response handling to assist with common support requests.
+Built a machine learning application to predict customer churn using customer data. Used data preprocessing and a classification model, with FastAPI to expose predictions through an API.
 
-Technologies: Python, FastAPI, SQLite, REST API, OpenAI API (optional).
+Technologies: Python, Pandas, Scikit-learn, FastAPI, Machine Learning.
